@@ -41,7 +41,11 @@ C:\> SET PATH=C:\cuda\bin;%PATH%
 I use ```pipenv``` so I did:
 ```cmd
 > pipenv shell
-> pipenv install tensorflow-gpu
+Launching subshell in virtual environment…
+D:\LEARNING-2019
+(LEARNING-2019-MehCbHCx) λ
+
+(LEARNING-2019-MehCbHCx) λ pipenv install tensorflow-gpu
 Installing tensorflow-gpu…
 Adding tensorflow-gpu to Pipfile's [packages]…
 Installation Succeeded
