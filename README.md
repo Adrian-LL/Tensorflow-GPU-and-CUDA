@@ -44,7 +44,7 @@ I use ```pipenv``` so I did:
 > pipenv install tensorflow-gpu
 ```
 
-## III. Test installation
+## III. Test installation (with ```pipenv```)
 ```cmd
 > cd LEARNING-2019
 > pipenv shell
